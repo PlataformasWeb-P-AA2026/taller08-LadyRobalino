@@ -43,3 +43,20 @@ paise número de jugadores de la base, número de goles en función de los goles
 * Evidencia de la base de datos sqlite
 * Evidencia de la base de datos mariaDB o mySQL
 * Evidencia del fronted funcionando
+
+
+## Evidencias
+
+* DBSqlite:
+<img width="1366" height="720" alt="image" src="https://github.com/user-attachments/assets/b37bbd15-4094-4d9a-998f-f12d49938cf2" />
+<img width="1366" height="720" alt="image" src="https://github.com/user-attachments/assets/71d8d3c1-cbec-4bad-8144-762d7eed771b" />
+<img width="1366" height="720" alt="image" src="https://github.com/user-attachments/assets/9183b955-8c2e-4c57-83d9-401c2ca366b1" />
+
+
+
+* Streamlit funcionando:
+<img width="1366" height="720" alt="image" src="https://github.com/user-attachments/assets/53e06120-f0cf-4eda-9820-7b236ca8e5d0" />
+<img width="1366" height="720" alt="image" src="https://github.com/user-attachments/assets/65edfde7-0b61-47d8-a905-55ea4274bfe5" />
+
+
+
